@@ -1,0 +1,49 @@
+
+
+    body {
+        padding:0;
+        margin:0;
+        background:#BEA895;
+        
+            background-color: #7DF9FF; /* Electric blue color */
+        }
+    
+        body {
+            cursor: url('discoball.png'), auto; /* Replace 'discoball.png' with the path to your disco ball image */
+        }
+    img {
+        position:absolute;
+        top:50%;
+        left:50%;
+        transform:translate(-50%, -50%);
+    }
+    
+    .letsdance1 {
+        width:800px;
+        height:auto;
+    }
+    
+    .letsdance2 {
+        width:800px;
+        height:auto;
+    }
+    
+    .letsdance3 {
+        width:800px;
+        height:auto;
+    }
+    
+    .letsdance4{
+        width:800px;
+        height:auto;
+    }
+    
+    .letsdance5 {
+        width:800px;
+        height:auto;
+    }
+    
+    .letsdance6 {
+        width:800px;
+        height:auto;
+    }
